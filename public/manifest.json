@@ -1,0 +1,11 @@
+{
+  "name": "محرر PDF المحلي",
+  "short_name": "محرر PDF",
+  "description": "دمج وتعديل ملفات PDF محلياً داخل المتصفح بخصوصية كاملة",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "dir": "rtl",
+  "lang": "ar"
+}
